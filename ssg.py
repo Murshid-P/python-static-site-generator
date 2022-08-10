@@ -1,4 +1,4 @@
-@@ -0,0 +1,10 @@
+
 import typer
 from ssg.site import Site
 
